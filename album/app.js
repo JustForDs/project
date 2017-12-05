@@ -8,7 +8,6 @@ const fse = require('fs-extra');
 const formidable = require('formidable');
 //引入path核心对象
 const path = require('path');
-
 // 文件
 //引入数据库对象
 const mysql = require('mysql');
